@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "tag": "SİTE YÖNETİMİ",
+  "headline": "Arıza bildirimi **kaybolmaz.**",
+  "sub": "Arıza kayda girer, iş takibe açılır, sakin SMS ya da e-postayla bilgilendirilir. Duyurular da aynı panelden çıkar.",
+  "visual_html": "<div class=\"tiles\"><div class=\"tile\"><div class=\"ti\">⚑</div><div class=\"tt\">Arıza kaydı</div><div class=\"td\">Ne, nerede, ne zaman</div></div><div class=\"tile\"><div class=\"ti\">⟳</div><div class=\"tt\">İş takibi</div><div class=\"td\">Açık, sürüyor, kapandı</div></div><div class=\"tile\"><div class=\"ti\">✉</div><div class=\"tt\">SMS / e-posta</div><div class=\"td\">Sakin haberdar</div></div><div class=\"tile\"><div class=\"ti\">◉</div><div class=\"tt\">Duyuru</div><div class=\"td\">Tüm siteye tek seferde</div></div></div>"
+}

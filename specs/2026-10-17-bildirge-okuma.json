@@ -1,0 +1,8 @@
+{
+  "theme": "light",
+  "tag": "BİLGİ · ISI",
+  "small_h1": true,
+  "headline": "Isı bildirgenizi **3 satırda** okuyun.",
+  "sub": "Bildirgedeki tutar, kendi tüketiminiz ve ortak alan payınızın toplamıdır. Önce endeks farkına bakın.",
+  "visual_html": "<div class=\"card\"><div class=\"card-h\"><div class=\"t\"><div class=\"ico\">i</div>Bildirge · Daire D-5</div><div class=\"pill\">Örnek</div></div><div class=\"row\"><div class=\"k\">1</div><div class=\"v\"><b>Endeks farkı:</b> bu dönem okunan − önceki dönem</div><div class=\"badge ghost\">Birim</div></div><div class=\"row\"><div class=\"k\">2</div><div class=\"v\"><b>Tüketim payı:</b> endeks farkı × birim fiyat</div><div class=\"badge ghost\">₺</div></div><div class=\"row last\"><div class=\"k\">3</div><div class=\"v\"><b>Ortak pay:</b> alanınıza düşen ortak gider</div><div class=\"badge ghost\">₺</div></div><div class=\"foot-note\"><span class=\"dot\"></span>Ödenecek tutar = Tüketim payı + Ortak pay</div></div>"
+}

@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "tag": "SİTE YÖNETİMİ",
+  "headline": "Aidat ödemesi **online.**",
+  "sub": "Sakin aidatını online öder, ödeme tahsilat olarak kayda geçer. Kimin ödediğini tek listeden görürsünüz.",
+  "visual_html": "<div class=\"stats\" style=\"margin-bottom:56px\"><div class=\"stat\"><div class=\"n\"><em>184</em></div><div class=\"l\">daire ödedi · örnek</div></div><div class=\"stat\"><div class=\"n\">56</div><div class=\"l\">daire bekliyor · örnek</div></div></div><div class=\"steps\"><div class=\"step on\"><i></i>Borç<br>bildirimi</div><div class=\"step on\"><i></i>Online<br>ödeme</div><div class=\"step on\"><i></i>Tahsilat<br>kaydı</div><div class=\"step\"><i></i>Aidat<br>listesi</div></div><div class=\"cta\"><span>Aidat, tahsilat, duyuru: <em>tek panel.</em></span><span>→</span></div>"
+}

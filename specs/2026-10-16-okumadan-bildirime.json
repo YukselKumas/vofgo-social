@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "tag": "ISI GİDER PAYLAŞIMI",
+  "headline": "Okumadan bildirime **tek akış.**",
+  "sub": "Endeksler okunur, dönem kontrol edilir, paylar hesaplanır. Sonuç sakinlere SMS ya da e-postayla iletilir.",
+  "visual_html": "<div class=\"stats\" style=\"margin-bottom:56px\"><div class=\"stat\"><div class=\"n\"><em>4</em></div><div class=\"l\">okuma yolu: RF, M-Bus, telefon, PC</div></div><div class=\"stat\"><div class=\"n\">1</div><div class=\"l\">akışta okumadan bildirime</div></div></div><div class=\"steps\"><div class=\"step on\"><i></i>Sayaç<br>okuma</div><div class=\"step on\"><i></i>Dönem<br>kontrolü</div><div class=\"step on\"><i></i>Pay<br>hesabı</div><div class=\"step on\"><i></i>SMS /<br>e-posta</div></div><div class=\"cta\"><span>Okuma, hesap, bildirim: <em>tek panel.</em></span><span>→</span></div>"
+}

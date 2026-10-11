@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "tag": "YAPAY ZEKÂ",
+  "headline": "Yapay zekâ **hesaplamaz.**",
+  "sub": "Tutarları yönetmelik formülü hesaplar; yapay zekâ yalnızca bakılması gereken daireleri işaretler. Kesinleştiren hep sizsiniz.",
+  "visual_html": "<div class=\"tiles\"><div class=\"tile\"><div class=\"ti\">✓</div><div class=\"tt\">Karşılaştırır</div><div class=\"td\">Dönemi bir öncekiyle</div></div><div class=\"tile\"><div class=\"ti\">✓</div><div class=\"tt\">Gerekçe yazar</div><div class=\"td\">Neden bakılmalı, tek satırda</div></div><div class=\"tile\"><div class=\"ti\">✕</div><div class=\"tt\">Tutar değiştirmez</div><div class=\"td\">Hesap formülde kalır</div></div><div class=\"tile\"><div class=\"ti\">✕</div><div class=\"tt\">Kesinleştirmez</div><div class=\"td\">Son söz yöneticide</div></div></div>"
+}
