@@ -1,0 +1,7 @@
+{
+  "theme": "light",
+  "tag": "YAPAY ZEKÂ",
+  "headline": "Kesinleştirmeden önce **ikinci bir göz.**",
+  "sub": "Yapay zekâ dönemi bir öncekiyle karşılaştırır, bakılacak daireleri sebebiyle listeler. Hiçbir tutarı değiştirmez.",
+  "visual_html": "<div class=\"card\"><div class=\"card-h\"><div class=\"t\"><div class=\"ico\">✦</div>Dönem kontrolü · Eylül</div><div class=\"pill\">Ağustos ile karşılaştırıldı</div></div><div class=\"row\"><div class=\"k\">B-12</div><div class=\"v\">Tüketim <b>3 katına çıktı</b>, metrekare aynı</div><div class=\"badge\">Bak</div></div><div class=\"row\"><div class=\"k\">A-7</div><div class=\"v\"><b>Sıfır tüketim</b> — sayaç arızalı olabilir</div><div class=\"badge\">Bak</div></div><div class=\"row last\"><div class=\"k\">C-3</div><div class=\"v\">Endeks <b>önceki dönemin altında</b></div><div class=\"badge\">Bak</div></div><div class=\"foot-note\"><span class=\"dot\"></span>Kalan 237 daire olağan aralıkta</div></div><div class=\"cta\"><span>Son söz sende: <em>kesinleştiren hep bir kişi.</em></span><span>→</span></div>"
+}
