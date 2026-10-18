@@ -1,0 +1,7 @@
+{
+  "theme": "light",
+  "tag": "YAPAY ZEKÂ",
+  "headline": "Faturanın **fotoğrafı** yeter.",
+  "sub": "Gider faturasının fotoğrafını yükleyin, yapay zekâ gider formunu doldursun. Kontrol edip kaydeden sizsiniz.",
+  "visual_html": "<div class=\"steps\"><div class=\"step on\"><i></i>Fotoğraf<br>çek</div><div class=\"step on\"><i></i>Form<br>dolar</div><div class=\"step on\"><i></i>Siz<br>kontrol</div><div class=\"step\"><i></i>Kayıt</div></div><div class=\"cta\" style=\"margin-top:56px\"><span>Yazmak yok, <em>bakıp onaylamak var.</em></span><span>→</span></div>"
+}

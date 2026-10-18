@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "tag": "ISI GİDER PAYLAŞIMI",
+  "headline": "Sayaç arızalıysa **emsal.**",
+  "sub": "Arızalı sayacın okuması ölçüm sayılmaz; pay, sağlam dairelerin m² ortalamasından hesaplanır. Sayaç okununca emsal mahsup edilir.",
+  "visual_html": "<div class=\"tiles\"><div class=\"tile\"><div class=\"ti\">⚠</div><div class=\"tt\">Arızalı işaret</div><div class=\"td\">Okuma ölçüm sayılmaz</div></div><div class=\"tile\"><div class=\"ti\">m²</div><div class=\"tt\">Emsal tüketim</div><div class=\"td\">Sağlam dairelerin ortalaması</div></div><div class=\"tile\"><div class=\"ti\">≡</div><div class=\"tt\">Defter kaydı</div><div class=\"td\">Her emsal ayrı satırda</div></div><div class=\"tile\"><div class=\"ti\">⟳</div><div class=\"tt\">Mahsup</div><div class=\"td\">Okununca emsal düşülür</div></div></div>"
+}

@@ -10,6 +10,12 @@
 | 2026-10-16 | dark | ISI GİDER PAYLAŞIMI | Okumadan bildirime tek akış. | posts/2026-10-16-okumadan-bildirime.png |
 | 2026-10-17 | light | BİLGİ · ISI | Isı bildirgenizi 3 satırda okuyun. | posts/2026-10-17-bildirge-okuma.png |
 | 2026-10-18 | dark | SİTE YÖNETİMİ | Arıza bildirimi kaybolmaz. | posts/2026-10-18-ariza-takibi.png |
+| 2026-10-19 | light | YAPAY ZEKÂ | Faturanın fotoğrafı yeter. | posts/2026-10-19-fatura-fotografi.png |
+| 2026-10-20 | dark | BİLGİ · ISI | %70 tüketim, %30 alan. | posts/2026-10-20-yuzde-70-30.png |
+| 2026-10-21 | light | ÖN MUHASEBE | Çek vadesi kaçmaz. | posts/2026-10-21-cek-vadesi.png |
+| 2026-10-22 | dark | ISI GİDER PAYLAŞIMI | Sayaç arızalıysa emsal. | posts/2026-10-22-arizali-sayac.png |
+| 2026-10-23 | light | SİTE YÖNETİMİ | Herkes kendi ekranını görür. | posts/2026-10-23-rol-bazli-yetki.png |
+| 2026-10-24 | dark | BİLGİ · ISI | Pay ölçer kWh göstermez. | posts/2026-10-24-pay-olcer-isi-sayaci.png |
 
 ## Instagram'da daha önce paylaşılanlar (Metricool öncesi)
 

@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "tag": "BİLGİ · ISI",
+  "headline": "Pay ölçer **kWh** göstermez.",
+  "sub": "Pay ölçer radyatöre takılır ve pay birimi sayar. kWh’yi yalnızca daire girişindeki ısı sayacı verir.",
+  "visual_html": "<div class=\"stats\"><div class=\"stat\"><div class=\"n\"><em>Pay</em></div><div class=\"l\">Isı pay ölçer · her radyatörde · dikey tesisat</div></div><div class=\"stat\"><div class=\"n\">kWh</div><div class=\"l\">Isı sayacı · daire girişinde · kollektörlü tesisat</div></div></div><div class=\"cta\" style=\"margin-top:22px\"><span>Isı sayacı <em>5 yılda bir</em> muayene edilir.</span><span>→</span></div>"
+}

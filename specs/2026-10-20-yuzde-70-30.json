@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "tag": "BİLGİ · ISI",
+  "headline": "**%70** tüketim, **%30** alan.",
+  "sub": "Isıtma giderinin %70’i ölçülen tüketime, %30’u daire alanına göre paylaşılır. Radyatör kapalı olsa da sabit pay ödenir.",
+  "visual_html": "<div class=\"split\"><div class=\"a\" style=\"flex:70\">%70 · Tüketim payı</div><div class=\"b\" style=\"flex:30\">%30</div></div><div class=\"split-l\"><span>Sayaçta ölçülen tüketiminiz / toplam tüketim</span><span>Alanınız / toplam alan</span></div><div class=\"cta\" style=\"margin-top:48px\"><span>Oranı kat malikleri kurulu <em>değiştirebilir.</em></span><span>→</span></div>"
+}
