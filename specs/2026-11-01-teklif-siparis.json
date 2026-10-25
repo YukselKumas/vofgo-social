@@ -1,0 +1,7 @@
+{
+  "theme": "light",
+  "tag": "ÖN MUHASEBE",
+  "headline": "Tekliften **faturaya tek akış.**",
+  "sub": "Teklif dosyasını hazırlar, müşteri onayını alır, siparişi faturaya dönüştürürsünüz. Her adım aynı panelde.",
+  "visual_html": "<div class=\"card\" style=\"margin-bottom:40px\"><div class=\"card-h\"><div class=\"t\"><div class=\"ico\">₺</div>Teklif · Asansör bakımı</div><div class=\"pill\">Örnek</div></div><div class=\"row last\"><div class=\"k\">Durum</div><div class=\"v\"><b>Müşteri onayladı</b> · siparişe dönüştü</div><div class=\"badge\">Onaylı</div></div></div><div class=\"steps\"><div class=\"step on\"><i></i>Teklif<br>dosyası</div><div class=\"step on\"><i></i>Müşteri<br>onayı</div><div class=\"step on\"><i></i>Sipariş</div><div class=\"step\"><i></i>Fatura</div></div><div class=\"cta\"><span>Fatura <em>UBL-TR</em> olarak hazırlanır.</span><span>→</span></div>"
+}

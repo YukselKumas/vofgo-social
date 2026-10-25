@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "tag": "ÖN MUHASEBE",
+  "headline": "Muhasebeciye **tek dosya.**",
+  "sub": "Kayıtlarınızı Excel ya da Logo uyumlu dosya olarak muhasebecinize aktarırsınız. Döviz faturaları TCMB kuruyla çevrilir.",
+  "visual_html": "<div class=\"stats\" style=\"margin-bottom:56px\"><div class=\"stat\"><div class=\"n\"><em>Excel</em></div><div class=\"l\">ya da Logo uyumlu dosya</div></div><div class=\"stat\"><div class=\"n\">TCMB</div><div class=\"l\">kuruyla döviz faturası</div></div></div><div class=\"steps\"><div class=\"step on\"><i></i>Fatura ve<br>fişler</div><div class=\"step on\"><i></i>Döviz<br>kuru</div><div class=\"step on\"><i></i>Aktarım<br>dosyası</div><div class=\"step\"><i></i>Muhasebeci</div></div><div class=\"cta\"><span>Muhasebeci <em>tanıdığı formatta</em> alır.</span><span>→</span></div>"
+}

@@ -1,0 +1,8 @@
+{
+  "theme": "dark",
+  "tag": "YAPAY ZEKÂ",
+  "headline": "Excel başlığı **uymasa da olur.**",
+  "small_h1": true,
+  "sub": "Şablona uymayan Excel başlıkları içe aktarmada kendiliğinden eşlenir. Dosyanızı baştan düzenlemeden yüklersiniz.",
+  "visual_html": "<div class=\"tiles\"><div class=\"tile\"><div class=\"ti\">“D. No”</div><div class=\"tt\">→ Daire</div><div class=\"td\">Sizin başlığınız eşlendi</div></div><div class=\"tile\"><div class=\"ti\">“Sakin Adı”</div><div class=\"tt\">→ Ad soyad</div><div class=\"td\">Sizin başlığınız eşlendi</div></div><div class=\"tile\"><div class=\"ti\">“m2”</div><div class=\"tt\">→ Alan (m²)</div><div class=\"td\">Sizin başlığınız eşlendi</div></div><div class=\"tile\"><div class=\"ti\">“Tel”</div><div class=\"tt\">→ Telefon</div><div class=\"td\">Sizin başlığınız eşlendi</div></div></div><div class=\"cta\"><span>Şablona uydurmak yok: <em>olduğu gibi yükleyin.</em></span><span>→</span></div>"
+}

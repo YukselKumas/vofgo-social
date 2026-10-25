@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "tag": "SİTE YÖNETİMİ",
+  "headline": "Bildirge **telefonda açılır.**",
+  "sub": "A4 PDF, 80 mm termal fiş ve daire sakini portalı tek kaynaktan çıkar. Sakin QR kodu okutur, bildirgesini telefonda görür.",
+  "visual_html": "<div class=\"tiles\"><div class=\"tile\"><div class=\"ti\">▤</div><div class=\"tt\">A4 PDF</div><div class=\"td\">Dosya ya da çıktı</div></div><div class=\"tile\"><div class=\"ti\">≡</div><div class=\"tt\">80 mm fiş</div><div class=\"td\">Termal yazıcıdan</div></div><div class=\"tile\"><div class=\"ti\">▦</div><div class=\"tt\">QR kod</div><div class=\"td\">Telefonda açılır</div></div><div class=\"tile\"><div class=\"ti\">⚑</div><div class=\"tt\">Askı listesi</div><div class=\"td\">Bina panosu için</div></div></div><div class=\"cta\"><span>Hepsi tek kaynaktan, <em>tek tıkla.</em></span><span>→</span></div>"
+}

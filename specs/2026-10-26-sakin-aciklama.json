@@ -1,0 +1,7 @@
+{
+  "theme": "light",
+  "tag": "YAPAY ZEKÂ",
+  "headline": "“Faturam neden **bu kadar?**”",
+  "sub": "Daire sakininin bu sorusuna yapay zekâ sade dille cevap verir. Tutarları değiştirmez; faturayı anlaşılır kılar.",
+  "visual_html": "<div class=\"card\"><div class=\"card-h\"><div class=\"t\"><div class=\"ico\">✦</div>Sakin sorusu · D-5</div><div class=\"pill\">Örnek</div></div><div class=\"row\"><div class=\"k\">Soru</div><div class=\"v\"><b>“Faturam neden</b> geçen aydan yüksek?”</div><div class=\"badge ghost\">Sakin</div></div><div class=\"row\"><div class=\"k\">Cevap</div><div class=\"v\"><b>Endeks farkınız arttı;</b> ortak payınız aynı kaldı.</div><div class=\"badge\">Sade</div></div><div class=\"row last\"><div class=\"k\">Döküm</div><div class=\"v\"><b>Tüketim payı + ortak pay,</b> satır satır</div><div class=\"badge ghost\">Bildirge</div></div><div class=\"foot-note\"><span class=\"dot\"></span>Örnek yazışma temsilîdir</div></div><div class=\"cta\"><span>Teknik dil yok: <em>sade cevap.</em></span><span>→</span></div>"
+}

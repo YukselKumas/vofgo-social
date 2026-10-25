@@ -16,6 +16,13 @@
 | 2026-10-22 | dark | ISI GİDER PAYLAŞIMI | Sayaç arızalıysa emsal. | posts/2026-10-22-arizali-sayac.png |
 | 2026-10-23 | light | SİTE YÖNETİMİ | Herkes kendi ekranını görür. | posts/2026-10-23-rol-bazli-yetki.png |
 | 2026-10-24 | dark | BİLGİ · ISI | Pay ölçer kWh göstermez. | posts/2026-10-24-pay-olcer-isi-sayaci.png |
+| 2026-10-26 | light | YAPAY ZEKÂ | “Faturam neden bu kadar?” | posts/2026-10-26-sakin-aciklama.png |
+| 2026-10-27 | dark | ÖN MUHASEBE | Muhasebeciye tek dosya. | posts/2026-10-27-muhasebeciye-aktarim.png |
+| 2026-10-28 | light | BİLGİ · ISI | Merkezi sistemde ölçüm şart. | posts/2026-10-28-kimler-icin-zorunlu.png |
+| 2026-10-29 | dark | SİTE YÖNETİMİ | Bildirge telefonda açılır. | posts/2026-10-29-qr-bildirge.png |
+| 2026-10-30 | light | ISI GİDER PAYLAŞIMI | Hatalı fiyat hesaba girmez. | posts/2026-10-30-sapma-uyarisi.png |
+| 2026-10-31 | dark | YAPAY ZEKÂ | Excel başlığı uymasa da olur. | posts/2026-10-31-sutun-eslestirme.png |
+| 2026-11-01 | light | ÖN MUHASEBE | Tekliften faturaya tek akış. | posts/2026-11-01-teklif-siparis.png |
 
 ## Instagram'da daha önce paylaşılanlar (Metricool öncesi)
 

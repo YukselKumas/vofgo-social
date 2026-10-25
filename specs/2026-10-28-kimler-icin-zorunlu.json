@@ -1,0 +1,7 @@
+{
+  "theme": "light",
+  "tag": "BİLGİ · ISI",
+  "headline": "Merkezi sistemde **ölçüm şart.**",
+  "sub": "Merkezi ısıtma ya da sıcak su sistemi olan, birden fazla bağımsız bölümlü binalarda gider ölçüme göre paylaşılır. Kombili binalar kapsam dışıdır.",
+  "visual_html": "<div class=\"split\"><div class=\"a\" style=\"flex:62\">Merkezi sistem ✓</div><div class=\"b\" style=\"flex:38\">Kombi ✕</div></div><div class=\"split-l\"><span>Ölçüme göre paylaşım zorunlu</span><span>Herkes kendi faturasını öder</span></div><div class=\"cta\" style=\"margin-top:48px\"><span>Dayanak: <em>5627 sayılı Kanun</em> ve 2008 yönetmeliği</span><span>→</span></div>"
+}
