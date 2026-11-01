@@ -23,6 +23,11 @@
 | 2026-10-30 | light | ISI GİDER PAYLAŞIMI | Hatalı fiyat hesaba girmez. | posts/2026-10-30-sapma-uyarisi.png |
 | 2026-10-31 | dark | YAPAY ZEKÂ | Excel başlığı uymasa da olur. | posts/2026-10-31-sutun-eslestirme.png |
 | 2026-11-01 | light | ÖN MUHASEBE | Tekliften faturaya tek akış. | posts/2026-11-01-teklif-siparis.png |
+| 2026-11-02 | dark | BİLGİ · ISI | Radyatörü kapatmak bedava değil. | posts/2026-11-02-15-derece-kurali.png |
+| 2026-11-04 | light | SİTE YÖNETİMİ | Yaz, gönder: blok blok. | posts/2026-11-04-blok-blok-duyuru.png |
+| 2026-11-05 | dark | YAPAY ZEKÂ | Yanıt taslağı hazır bekler. | posts/2026-11-05-destek-yanit-taslagi.png |
+| 2026-11-06 | light | ISI GİDER PAYLAŞIMI | Dört sayaç, tek dönem. | posts/2026-11-06-dort-sayac-tek-donem.png |
+| 2026-11-08 | dark | ÖN MUHASEBE | Montaj onaylanınca stok düşer. | posts/2026-11-08-seri-numarali-stok.png |
 
 ## Instagram'da daha önce paylaşılanlar (Metricool öncesi)
 

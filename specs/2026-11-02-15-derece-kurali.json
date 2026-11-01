@@ -1,0 +1,8 @@
+{
+  "theme": "dark",
+  "tag": "BİLGİ · ISI",
+  "headline": "Radyatörü kapatmak **bedava değil.**",
+  "small_h1": true,
+  "sub": "Radyatörünü kapatan daire komşularının ısısıyla ısınır. Yönetmelik bu yüzden 15°C kuralıyla tüketime bölgesel bir taban koyar.",
+  "visual_html": "<div class=\"split\"><div class=\"a\" style=\"flex:40\">Ölçülen</div><div class=\"b\" style=\"flex:60\">Tabana yükseltilir</div></div><div class=\"split-l\"><span>m² başına tüketim eşiğin altında</span><span>Eşik × daire alanı</span></div><div class=\"cta\" style=\"margin-top:48px\"><span>Düzeltilen tüketim bildirgede <em>ayrı yazar.</em></span><span>→</span></div>"
+}

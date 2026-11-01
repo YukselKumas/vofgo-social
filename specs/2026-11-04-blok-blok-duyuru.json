@@ -1,0 +1,7 @@
+{
+  "theme": "light",
+  "tag": "SİTE YÖNETİMİ",
+  "headline": "Yaz, gönder: **blok blok.**",
+  "sub": "Duyurunuz SMS ve e-postayla daire sakinlerine blok blok ulaşır. Ulaşmayan mesaj “gönderildi” sayılmaz.",
+  "visual_html": "<div class=\"tiles\"><div class=\"tile\"><div class=\"ti\">A Blok</div><div class=\"tt\">SMS + e-posta</div><div class=\"td\">Su kesintisi duyurusu</div></div><div class=\"tile\"><div class=\"ti\">B Blok</div><div class=\"tt\">SMS + e-posta</div><div class=\"td\">Su kesintisi duyurusu</div></div><div class=\"tile\"><div class=\"ti\">✓ Ulaştı</div><div class=\"tt\">Gönderildi</div><div class=\"td\">Kayda geçer</div></div><div class=\"tile\"><div class=\"ti\">✕ Ulaşmadı</div><div class=\"tt\">Gönderildi sayılmaz</div><div class=\"td\">Durum doğru kalır</div></div></div><div class=\"cta\"><span>Tek metin, <em>iki kanal.</em></span><span>→</span></div>"
+}

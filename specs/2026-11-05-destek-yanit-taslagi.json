@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "tag": "YAPAY ZEKÂ",
+  "headline": "Yanıt taslağı **hazır bekler.**",
+  "sub": "Destek talebine yapay zekâ bir yanıt taslağı yazar. Operatör düzenler, gönderen yine kendisidir.",
+  "visual_html": "<div class=\"card\"><div class=\"card-h\"><div class=\"t\"><div class=\"ico\">?</div>Destek talebi · Daire 12</div><div class=\"pill\">Örnek</div></div><div class=\"row\"><div class=\"k\">Soru</div><div class=\"v\">“Bu ay bildirgem <b>neden yükseldi?</b>”</div><div class=\"badge ghost\">Yeni</div></div><div class=\"row\"><div class=\"k\">Taslak</div><div class=\"v\">Yapay zekâ <b>yanıt taslağını yazdı</b></div><div class=\"badge\">Hazır</div></div><div class=\"row last\"><div class=\"k\">Gönder</div><div class=\"v\">Operatör <b>düzenler ve gönderir</b></div><div class=\"badge blue\">Sizde</div></div><div class=\"foot-note\"><span class=\"dot\"></span>Örnek talep temsilîdir</div></div>"
+}

@@ -1,0 +1,7 @@
+{
+  "theme": "light",
+  "tag": "ISI GİDER PAYLAŞIMI",
+  "headline": "Dört sayaç, **tek dönem.**",
+  "sub": "Sıcak su, soğuk su, elektrik ve doğalgaz sayaçları aynı dönemde okunur ve hesaplanır. Her gider için ayrı dönem açmazsınız.",
+  "visual_html": "<div class=\"stats\" style=\"margin-bottom:18px\"><div class=\"stat\"><div class=\"n\"><em>4</em></div><div class=\"l\">sayaç türü: sıcak su, soğuk su, elektrik, doğalgaz</div></div><div class=\"stat\"><div class=\"n\">1</div><div class=\"l\">dönem içinde birlikte</div></div></div><div class=\"stats\"><div class=\"stat\"><div class=\"n\">RF</div><div class=\"l\">ya da M-Bus, GSM, telefon, bilgisayar</div></div><div class=\"stat\"><div class=\"n\"><em>1</em></div><div class=\"l\">tabloda tüm okumalar</div></div></div>"
+}
